@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and Game Development
 - 🌱 I’m currently learning C.I.S. (Computer Information Systems)
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me isrobertson21@gmail.com, +1(313)-434 7019
+- 📫 How to reach me isrobertson21@gmail.com
 
 <!---
 Isrobertson/Isrobertson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
